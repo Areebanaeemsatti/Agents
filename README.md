@@ -21,6 +21,10 @@ The system consists of four agents:
 - Dropdown option to choose a specific agent or let Coordinator auto-route  
 
 ---
+
+# output
+OUTPUT.png
+
 # Installation dependency 
 pip install gradio scikit-learn numpy
 
@@ -31,6 +35,4 @@ pip install gradio scikit-learn numpy
 git clone https://github.com/Areebanaeemsatti/agents.git
 cd agents
 
-# output
 
-OUTPUT.png
