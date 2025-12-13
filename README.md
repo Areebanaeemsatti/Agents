@@ -30,3 +30,7 @@ pip install gradio scikit-learn numpy
 ```bash
 git clone https://github.com/Areebanaeemsatti/agents.git
 cd agents
+
+# output
+
+OUTPUT.png
